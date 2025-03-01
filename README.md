@@ -49,6 +49,11 @@ class SayefAhmed:
 ---
 
 <h2 align="center">Technical Expertise:</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&width=1000&lines=🔧+Core+Technologies:+Python,+C,+JavaScript;🎨+Frontend:+HTML,+CSS,+Bootstrap,+React;⚙️+Backend+%26+Database:+Django,+Flask,+WordPress,+RestAPI,+MySQL,+MongoDB;🛠️+Development+Tools:+VSCode,+Git;📚+Additional+Skills:+GitHub,+git,+Flask,+WordPress" />
+</p>
+
 <table align="center">
 <tr border="none">
 <td width="55%" align="left">
