@@ -52,7 +52,7 @@ I'm focused on building powerful software applications. Experienced in Python pr
 <h3 align="center">🎨 Frontend Development</h3>
 </td>
 <td width="45%" align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" height=40 /><br>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" height=40 /><br>
 </td>
 </tr>
 
