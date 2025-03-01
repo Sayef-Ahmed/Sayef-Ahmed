@@ -26,7 +26,7 @@ class SayefAhmed:
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **RACT**
+- 🌱 I’m currently learning **REACT**
 
 - 🧑‍🎓 I’m an Undergraduate at **B.Sc. (Hon's) in CSE**
 
