@@ -8,6 +8,18 @@
 
 I'm focused on building powerful software applications. Experienced in Python programming and Django backend systems, with a track record of delivering scalable solutions to complex technical challenges. Experienced in both independent development and team collaboration.
 
+```python
+class SayefAhmed:
+    def __init__(self):
+        self.name = "Sayef Ahmed"
+        self.role = "Software Developer"
+        self.location = "Bangladesh"
+        self.languages = ["Python", "JavaScript", "C"]
+
+    def say_hello(self):
+        print("Thanks for visiting my profile! Feel free to connect with me.")
+```
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sayef-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Sayef-Ahmed" /> </p>
 
 <table align="center">
@@ -27,7 +39,7 @@ I'm focused on building powerful software applications. Experienced in Python pr
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
   
   </td>
